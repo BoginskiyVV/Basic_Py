@@ -403,3 +403,4 @@ FodyWeavers.xsd
 /.venv
 /env
 /.env
+.vscode
